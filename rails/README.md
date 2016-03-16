@@ -7,17 +7,27 @@ Enviromnent Setup
 Controller
 ----------
 
+`建置中`
+
 Model & Database Migration
 --------------------------
+
+`建置中`
 
 View
 ----
 
+`建置中`
+
 Routes
 ------
 
+`建置中`
+
 Deploy
 ------
+
+`建置中`
 
 References
 ----------

@@ -9,8 +9,8 @@ Controller
 
 `建置中`
 
-Model & Database Migration
---------------------------
+Model
+-----
 
 `建置中`
 
@@ -18,6 +18,11 @@ View
 ----
 
 `建置中`
+
+Database Migration
+------------------
+
+- [新增修改刪除欄位](modify_column.md)
 
 Routes
 ------

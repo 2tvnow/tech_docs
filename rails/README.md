@@ -23,6 +23,7 @@ Database Migration
 ------------------
 
 - [命名規範與注意事項](dbm_precautions.md)
+- [欄位型態](dbm_column_types.md)
 - [修改欄位](dbm_columns.md)
 
 Routes

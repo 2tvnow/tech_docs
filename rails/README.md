@@ -39,3 +39,4 @@ References
 ----------
 
 - [Ruby on Rails 實戰聖經 - ihower] (https://ihower.tw/rails4/index.html)
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)

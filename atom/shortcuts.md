@@ -3,9 +3,9 @@
 
 #### 基本
 
-- 開啟檔案 `Ctrl + P`
+- __開啟檔案__ : `Ctrl + P`
 
 #### 行操作 (Line Manipulation)
 
-- 複製行 `Ctrl + Shift + D`
-- 刪除行 `Ctrl + Shift + K`
+- __複製行__ : `Ctrl + Shift + D`
+- __刪除行__ : `Ctrl + Shift + K`

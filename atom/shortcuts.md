@@ -1,14 +1,9 @@
-Windows 快捷鍵
---------------
 
-#### 基本
 
-- __開啟檔案__ : `Ctrl + P`
+|操作                |Windows                   |Mac                      |
+|--------------------|--------------------------|-------------------------|
+|開啟檔案            |`Ctrl + P`                |`Cmd + P`                |
+|複製行              |`Ctrl + Shift + D`        |`Cmd + Shift + D`        |
+|刪除行              |`Ctrl + Shift + K`        |`Cmd + Shift + K`        |
 
-#### 行操作 (Line Manipulation)
 
-- __複製行__ : `Ctrl + Shift + D`
-- __刪除行__ : `Ctrl + Shift + K`
-
-Mac 快捷鍵
-----------

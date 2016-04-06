@@ -15,5 +15,3 @@
 |自動縮排            |`Ctrl + Shift + I`        |``                       |[需先安裝套件auto-indent](plugins.md)   |
 |開啟上一個關掉的檔案|`Ctrl + Shift + T`        |``                       |[需先安裝套件open-recent](plugins.md)   |
 
-
-- [需先安裝套件expand-region](plugins.md)

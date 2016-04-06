@@ -11,8 +11,9 @@
 |移動到輸入的方法函式|`Ctrl + R`                |``                       |                          |
 |把程式碼上下搬動    |`Ctrl + 上 or 下`         |``                       |                          |
 |搜尋整個目錄的檔案  |`Ctrl + Shift + F`        |``                       |                          |
-|extending selection |`Ctrl + W`                |``                       |需先安裝套件expand-region |
-|自動縮排            |`Ctrl + Shift + I`        |``                       |需先安裝套件auto-indent   |
-|開啟上一個關掉的檔案|`Ctrl + Shift + T`        |``                       |需先安裝套件open-recent   |
+|extending selection |`Ctrl + W`                |``                       |[需先安裝套件expand-region](plugins.md) |
+|自動縮排            |`Ctrl + Shift + I`        |``                       |[需先安裝套件auto-indent](plugins.md)   |
+|開啟上一個關掉的檔案|`Ctrl + Shift + T`        |``                       |[需先安裝套件open-recent](plugins.md)   |
 
 
+- [需先安裝套件expand-region](plugins.md)

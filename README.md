@@ -11,3 +11,5 @@
 ----
 
 - [Ruby on Rails] (./rails)
+- [Git convention] (./git)
+- [Atom] (./atom)

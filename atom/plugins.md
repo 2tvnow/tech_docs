@@ -4,7 +4,7 @@
 - __terminal-plus__ : 首要安裝，讓你可以在Atom裡面打command line
 - __merge-conflicts__ : 解決merge conflict的套件 [[示意圖](http://www.jonobacon.org/wp-content/uploads/2015/11/merge.gif)]
 - __goto__ : 右鍵goto declaration，移動到呼叫的file
-- __expand-region__ : 在intellij很方便的extending selection，載好後去keymap.cson設定快捷鍵
+- __expand-region__ : 在intellij很方便的extending selection，載好後去keymap.cson設定快捷鍵 [[示意圖](https://i.gyazo.com/345e05e29cc1e6e1d103f49d50c52b01.gif)]
 ```
 'atom-text-editor':
   'ctrl-w': 'expand-region:expand'

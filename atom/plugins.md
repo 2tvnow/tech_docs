@@ -11,5 +11,9 @@
 ```
 - __open-recent__ : 把上一個關掉的檔案開啟，連續按就開更一個，跟chrome一樣
 - __auto-indent__ : 自動縮排 (Ctrl + Shift + I)
+- __vim-mode__ : Vim Mode，除了 cloumn mode 外，常用的都有
+- __compare-files__ : 檔案比對，
+- __autoclose-html__ : 補齊 html
  
+
 
